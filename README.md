@@ -2,7 +2,8 @@
 
 ## Description
 
-This tool is a SAST (Static Application Security Testing) scanner for the Javascript language.
+This tool is a SAST (Static Application Security Testing) scanner for different programming languages,
+  currently only supporting the Javascript language.
   It will find security vulnerabilities like
   [*SQL-Injection*](https://owasp.org/www-community/attacks/SQL_Injection)
   and [*Unsafe Deserialisation*](https://cwe.mitre.org/data/definitions/502.html) in your source code.
