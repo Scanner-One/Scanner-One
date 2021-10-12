@@ -21,6 +21,10 @@ $ ./scanner_one.sh [source_code_filename.js]
 This tool requires [Docker](https://docs.docker.com/get-docker/) to be installed, and a tool
   like *curl*, *wget*, or *git clone* to download the script.
 
+## Homepage
+
+The homepage can be found at [Scanner-One.com](https://Scanner-One.com).
+
 <!--
 **ScannerOne/ScannerOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
