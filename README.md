@@ -2,8 +2,9 @@
 
 ## Description
 
-This tool is a SAST (Static Application Security Testing) scanner for different programming languages,
-  currently only supporting the Javascript language.
+This tool is a SAST (Static Application Security Testing) scanner and exploring web-interface
+  for different programming languages,
+  currently supporting Cpp, Java, Javascript, PHP and Python.
   It will find security vulnerabilities like
   [*SQL-Injection*](https://owasp.org/www-community/attacks/SQL_Injection)
   and [*Unsafe Deserialisation*](https://cwe.mitre.org/data/definitions/502.html) in your source code.
@@ -24,6 +25,10 @@ This tool requires [Docker](https://docs.docker.com/get-docker/) to be installed
 ## Homepage
 
 The homepage can be found at [Scanner-One.com](https://Scanner-One.com).
+
+## Contact
+
+Create an issue at [https://github.com/Scanner-One/Scanner-One/issues] or mail us at Scanner-One [at} Scanner-One {dot] com.
 
 <!--
 **ScannerOne/ScannerOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
